@@ -26,6 +26,22 @@ The data used in this analysis is structured into three CSV files and one text f
   
   **▫️**electric_vehicle_sales_by_state.csv: Includes sales data categorized by state and vehicle type.
 
+
+## Task
+The task is to do Primary and Secondary Analysis such as :
+
+   1. Top 3 and Bottom 3 Makers.
+      
+   2. State with highest penetration rate in 2-       wheelers and 4-wheelers.
+   3. Quaterly Trends of the top 5 makers.
+   4. Peak and Low season months of EV sales
+   5. CAGR of top 5 makers.
+   6. Projected number of EV sales for 2030 by        CAGR
+   7. EV penetration rates comparision between        states
+   8. Revenue Growth rate between 2022vs2024          and 2023vs2024
+   9. Top 10 States with highest CAGR.
+   10. States with negative Penetration Decline
+
 ## Tools:
 
   **1.** Power BI: Used for data visualization and analysis.
