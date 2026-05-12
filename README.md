@@ -20,7 +20,7 @@ The objective is to perform a detailed market study of the existing EV/Hybrid ma
 
 The data used in this analysis is structured into three CSV files and one text file (metadata):
 
-   **▫️** dim_date.csv: Contains date-related information, including fiscal year and quarter details.
+  **▫️**dim_date.csv: Contains date-related information, including fiscal year and quarter details.
    
   **▫️** electric_vehicle_sales_by_makers.csv: Provides sales data by vehicle category and manufacturer.
   
@@ -44,9 +44,9 @@ The task is to do Primary and Secondary Analysis such as :
 
 ## Tools:
 
-  **1.** Power BI: Used for data visualization and analysis.
+   1. Power BI: Used for data visualization and analysis.
   
-  **2.** Power Query: Utilized for data cleaning and transformation.
+   2. Power Query: Utilized for data cleaning and transformation.
 
 ## Key Insights:
 
