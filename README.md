@@ -37,7 +37,7 @@ The task is to do Primary and Secondary Analysis such as :
    7. EV penetration rates comparision between        states
    8. Revenue Growth rate between 2022vs2024          and 2023vs2024
    9. Top 10 States with highest CAGR.
-   10. States with negative Penetration Decline
+  10. States with negative Penetration Decline
 
 ## Tools:
 
@@ -47,36 +47,48 @@ The task is to do Primary and Secondary Analysis such as :
 
 ## Key Insights:
 
-Ola electric dominated the 2- wheeler EV market, leading in both FY 2023 and 2024 with 153K and 332K respectively.
+**1. Top 3 and Bottom 3 Makers.**
 
-TVS and Ather surged in 2024, displacing Hero and Okinawa from the top spots.
+  * Ola electric dominated the 2- wheeler EV market, leading in both FY 2023 and 2024 with 153K and 332K respectively.
 
-In FY 2023, Pure Ev , Being and Jithendra struggled low sales, barely reaching 12K, 11K, and 9K respectively.
+   * TVS and Ather surged in 2024, displacing Hero and Okinawa from the top spots.
 
-The trend continued in FY 2024 with Kinetic Green, Revolt and Battre Electric slipping further, registering just 10K, 7K and 5K sales.
-These makers face and uphill battle in the compitative EV landscape.
+   * In FY 2023, Pure Ev , Being and Jithendra struggled low sales, barely reaching 12K, 11K, and 9K respectively.
 
-Goa leads the charge with the remarkable 17.99% penetration in 2- wheeler EV sales, followed by Kerala at 13.52%.
-Karnataka, Maharashtra and Delhi are  close behind solidifying their stance as key player in India's EV revolution.
+   * The trend continued in FY 2024 with Kinetic Green, Revolt and Battre Electric slipping further, registering just 10K, 7K and 5K sales.
 
-Kerala takes the lead at 5.76% setting the pace for green mobility.
-Chandigarh and Delhi follow closely , with both regions driving strong adoption rates of 4.50% and 4.29% respectively.
-Karnataka and Goa trail just behind, each making significant strides towards a sustainable future with a penetration.
+**2. State with highest penetration rate in 2-       wheelers and 4-wheelers.**
 
-Tata Motors has been the leader in the EV 4- wheelers category from Q1 2022 with 14K units through Q4 2024 with 33K units.
-BYD started strong in Q1 with 487K units but saw a slight dip in Q2  and Q3 with 423  and 454 units respectively and experienced a sudden raise reaching 1055 units.
+**For 2 Wheelers** 
 
+  * Goa leads the charge with the remarkable 17.99% penetration in 2- wheeler EV sales, followed by Kerala at 13.52%.
+  * Karnataka, Maharashtra and Delhi are  close behind solidifying their stance as key player in India's EV revolution.
 
-Delhi show a solid EV adoption with a 7.71% penetration rate, led by 2 wheeler sales reaching a 9.40% penetration.
-With over 46K Eav sold , Delhi's balanced 4 wheeler penetration at 4.28% signals steady growth in both segments.
-Karnataka dominate with an impressive overall penetration rate of 10.18% , driven by strong 2 wheeler sales at 11.57%.
-Despite a lower 4 wheeler penetration at 4.26% , Karnataka's total EV sales exceed 160K, highlighting it's leadership in the EV market.
+**For 4 Wheelers**
 
+  * Kerala takes the lead at 5.76% setting the pace for green mobility.
+  * Chandigarh and Delhi follow closely , with both regions driving strong adoption rates of 4.50% and 4.29% respectively.
+  * Karnataka and Goa trail just behind, each making significant strides towards a sustainable future with a penetration.
 
-BYD leads the pack with an astonishing CAGR of 566.% , showcasing explosive growth in the 4 wheeler segment.
-Hyundai follows with a remarkable 255.48% CAGR
-Tata's steady growth at 94.71% underscores it's strong hold in the EV market, despite fierce compitation.
+**3. Quaterly Trends of the top 5 makers.**
 
+  * Tata Motors has been the leader in the EV 4- wheelers category from Q1 2022 with 14K units through Q4 2024 with 33K units.
+  * BYD started strong in Q1 with 487K units but saw a slight dip in Q2  and Q3 with 423  and 454 units respectively and experienced a sudden raise reaching 1055 units.
+
+**4. CAGR of top 5 makers.**
+
+  * Delhi show a solid EV adoption with a 7.71% penetration rate, led by 2 wheeler sales reaching a 9.40% penetration.
+  * With over 46K Eav sold , Delhi's balanced 4 wheeler penetration at 4.28% signals steady growth in both segments.
+  * Karnataka dominate with an impressive overall penetration rate of 10.18% , driven by strong 2 wheeler sales at 11.57%.
+  * Despite a lower 4 wheeler penetration at 4.26% , Karnataka's total EV sales exceed 160K, highlighting it's leadership in the EV market.
+
+**5. Projected number of EV sales for 2030 by        CAGR** 
+
+  * BYD leads the pack with an astonishing CAGR of 566.% , showcasing explosive growth in the 4 wheeler segment.
+  * Hyundai follows with a remarkable 255.48% CAGR.
+  * Tata's steady growth at 94.71% underscores it's strong hold in the EV market, despite fierce compitation.
+
+**6. 
 Meghalaya, Karnataka and Goa leads the charge in Vehicle Sales growth , showcasing dynamic expansion in India's EV market from 2022 to 2024.
 
 March consistently emerges as the  peak season for EV sales.
