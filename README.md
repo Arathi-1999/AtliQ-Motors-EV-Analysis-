@@ -49,6 +49,7 @@ The task is to do Primary and Secondary Analysis such as :
 
 **1. Top 3 and Bottom 3 Makers.**
 
+![Dashboard](Dashboards.PA1.png)
   * Ola electric dominated the 2- wheeler EV market, leading in both FY 2023 and 2024 with 153K and 332K respectively.
 
    * TVS and Ather surged in 2024, displacing Hero and Okinawa from the top spots.
