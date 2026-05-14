@@ -82,7 +82,7 @@ The task is to do Primary and Secondary Analysis such as :
 
 **4. EV sales and penetration rates in Delhi         compare to Karnataka for 2024.**
 
-![Dashboard](Dashboards/PA4.png)
+![Dashboard](Dashboards/PA5..jpg)
 
   * Delhi show a solid EV adoption with a 7.71% penetration rate, led by 2 wheeler sales reaching a 9.40% penetration.
   * With over 46K EV sold , Delhi's balanced 4 wheeler penetration at 4.28% signals steady growth in both segments.
@@ -91,7 +91,7 @@ The task is to do Primary and Secondary Analysis such as :
 
 **5. CAGR of top 5 makers.** 
 
-![Dashboard](Dashboards/PA5..jpg)
+![Dashboard](Dashboards/PA6.jpg)
   * BYD leads the pack with an astonishing CAGR of 566.% , showcasing explosive growth in the 4 wheeler segment.
   * Hyundai follows with a remarkable 255.48% CAGR.
   * Tata's steady growth at 94.71% underscores it's strong hold in the EV market, despite fierce compitation.
