@@ -49,7 +49,7 @@ The task is to do Primary and Secondary Analysis such as :
 
 **1. Top 3 and Bottom 3 Makers.**
 
-![Dashboard](Dashboards.PA1.png)
+![Dashboard](Dashboards/PA1.png)
   * Ola electric dominated the 2- wheeler EV market, leading in both FY 2023 and 2024 with 153K and 332K respectively.
 
    * TVS and Ather surged in 2024, displacing Hero and Okinawa from the top spots.
@@ -62,6 +62,8 @@ The task is to do Primary and Secondary Analysis such as :
 
 **For 2 Wheelers** 
 
+  ![Dashboard](Dashboards/PA2.png)
+  
   * Goa leads the charge with the remarkable 17.99% penetration in 2- wheeler EV sales, followed by Kerala at 13.52%.
   * Karnataka, Maharashtra and Delhi are  close behind solidifying their stance as key player in India's EV revolution.
 
@@ -73,10 +75,14 @@ The task is to do Primary and Secondary Analysis such as :
 
 **3. Quaterly Trends of the top 5 makers.**
 
+![Dashboard](Dashboards/PA3.png)
+
   * Tata Motors has been the leader in the EV 4- wheelers category from Q1 2022 with 14K units through Q4 2024 with 33K units.
   * BYD started strong in Q1 with 487K units but saw a slight dip in Q2  and Q3 with 423  and 454 units respectively and experienced a sudden raise reaching 1055 units.
 
 **4. EV sales and penetration rates in Delhi         compare to Karnataka for 2024.**
+
+![Dashboard](Dashboards/PA4.png)
 
   * Delhi show a solid EV adoption with a 7.71% penetration rate, led by 2 wheeler sales reaching a 9.40% penetration.
   * With over 46K EV sold , Delhi's balanced 4 wheeler penetration at 4.28% signals steady growth in both segments.
@@ -84,6 +90,8 @@ The task is to do Primary and Secondary Analysis such as :
   * Despite a lower 4 wheeler penetration at 4.26% , Karnataka's total EV sales exceed 160K, highlighting it's leadership in the EV market.
 
 **5. CAGR of top 5 makers.** 
+
+![Dashboard](Dashboards/PA5..png)
 
   * BYD leads the pack with an astonishing CAGR of 566.% , showcasing explosive growth in the 4 wheeler segment.
   * Hyundai follows with a remarkable 255.48% CAGR.
