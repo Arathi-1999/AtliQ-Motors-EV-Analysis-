@@ -91,7 +91,7 @@ The task is to do Primary and Secondary Analysis such as :
 
 **5. CAGR of top 5 makers.** 
 
-![Dashboard](Dashboards/PA6.jpg)
+![Dashboard](Dashboards/PA6.png)
   * BYD leads the pack with an astonishing CAGR of 566.% , showcasing explosive growth in the 4 wheeler segment.
   * Hyundai follows with a remarkable 255.48% CAGR.
   * Tata's steady growth at 94.71% underscores it's strong hold in the EV market, despite fierce compitation.
