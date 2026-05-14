@@ -101,3 +101,6 @@ The task is to do Primary and Secondary Analysis such as :
 
   * Maharashtra, Karnataka, Kerala, Gujarat have the higher penetration sales.
   * Goa shows higher penetration rate but the electric Vehicles sold are very less which results in lower projected sales.
+
+**9. Revenue growth rate of 4-wheeler and 2-         wheelers EVs in India for 2022 vs 2024 and      2023 vs 2024** 
+   * Both categories are growing rapidly but, 4 wheelers are expanding at a faster pace compared to 2 wheelers.
