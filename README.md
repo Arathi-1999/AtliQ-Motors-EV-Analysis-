@@ -75,7 +75,7 @@ The task is to do Primary and Secondary Analysis such as :
 
 **3. Quaterly Trends of the top 5 makers.**
 
-![Dashboard](Dashboards/PA3.png)
+![Dashboard](Dashboards/PA4.png)
 
   * Tata Motors has been the leader in the EV 4- wheelers category from Q1 2022 with 14K units through Q4 2024 with 33K units.
   * BYD started strong in Q1 with 487K units but saw a slight dip in Q2  and Q3 with 423  and 454 units respectively and experienced a sudden raise reaching 1055 units.
