@@ -121,3 +121,7 @@ The task is to do Primary and Secondary Analysis such as :
 ![Dashboard](Dashboards/PA10.png)
 
    * Both categories are growing rapidly but, 4 wheelers are expanding at a faster pace compared to 2 wheelers.
+
+
+## Live Interactive Dashboard 
+**https://app.powerbi.com/view?r=eyJrIjoiZDcxMzQxNzEtZjY1YS00OGE4LWIwYjQtY2Y5ODU4OWIwYTM5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
