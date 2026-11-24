@@ -75,14 +75,14 @@ The task is to do Primary and Secondary Analysis such as :
 
 **3. Quaterly Trends of the top 5 makers.**
 
-![Dashboard](Dashboards/PA4.png)
+![Dashboard](Dashboards/PA3.png)
 
   * Tata Motors has been the leader in the EV 4- wheelers category from Q1 2022 with 14K units through Q4 2024 with 33K units.
   * BYD started strong in Q1 with 487K units but saw a slight dip in Q2  and Q3 with 423  and 454 units respectively and experienced a sudden raise reaching 1055 units.
 
 **4. EV sales and penetration rates in Delhi         compare to Karnataka for 2024.**
 
-![Dashboard](Dashboards/PA5..jpg)
+![Dashboard](Dashboards/PA 4.jpg)
 
   * Delhi show a solid EV adoption with a 7.71% penetration rate, led by 2 wheeler sales reaching a 9.40% penetration.
   * With over 46K EV sold , Delhi's balanced 4 wheeler penetration at 4.28% signals steady growth in both segments.
