@@ -91,34 +91,34 @@ The task is to do Primary and Secondary Analysis such as :
 
 **5. CAGR of top 5 makers.** 
 
-![Dashboard](Dashboards/PA6.png)
+![Dashboard](Dashboards/PA 5.png)
   * BYD leads the pack with an astonishing CAGR of 566.% , showcasing explosive growth in the 4 wheeler segment.
   * Hyundai follows with a remarkable 255.48% CAGR.
   * Tata's steady growth at 94.71% underscores it's strong hold in the EV market, despite fierce compitation.
 
 **6. Top 10 States with highest CAGR.** 
 
-![Dashboard](Dashboards/PA7.png)
+![Dashboard](Dashboards/PA6.png)
 
   * Meghalaya, Karnataka and Goa leads the charge in Vehicle Sales growth , showcasing dynamic expansion in India's EV market from 2022 to 2024.
 
 **7. Peak and Low season months of EV sales**
 
-![Dashboard](Dashboards/PA8.png)
+![Dashboard](Dashboards/PA7.png)
 
   * March consistently emerges as the  peak season for EV sales.
   * June is the low season, showcasing comparatively lower sales, although there's still noticeable growth from 5K in 2022 to 54K in 2024.
 
 **8. Projected number of EV sales for 2030 by        CAGR**
 
-![Dashboard](Dashboards/PA9.png)
+![Dashboard](Dashboards/PA8.png)
 
   * Maharashtra, Karnataka, Kerala, Gujarat have the higher penetration sales.
   * Goa shows higher penetration rate but the electric Vehicles sold are very less which results in lower projected sales.
 
 **9. Revenue growth rate of 4-wheeler and 2-         wheelers EVs in India for 2022 vs 2024 and      2023 vs 2024** 
 
-![Dashboard](Dashboards/PA10.png)
+![Dashboard](Dashboards/PA9.png)
 
    * Both categories are growing rapidly but, 4 wheelers are expanding at a faster pace compared to 2 wheelers.
 
